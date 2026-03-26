@@ -1,0 +1,26 @@
+IssueID,Title,Location,Severity,Description,Category,ReportedTime,Status,EstimatedDuration
+ISS001,Complete Power Grid Failure,Downtown,10,Entire downtown area without power affecting 10,000+ residents,Infrastructure,2024-01-15 08:30:00,Active,12
+ISS002,Flash Flooding Emergency,Eastside,9,Severe flooding in residential areas, need immediate evacuation,Natural Disaster,2024-01-15 09:15:00,Active,8
+ISS003,Multi-Casualty Accident,Westside,10,Multiple vehicle collision on highway with 15 injured,Medical,2024-01-15 07:45:00,Active,6
+ISS004,Widespread Water Contamination,Northside,9,Main water supply contaminated, affecting 5000 households,Health Crisis,2024-01-14 14:20:00,In Progress,24
+ISS005,Gas Pipeline Explosion,Southside,10,Major gas pipeline explosion, fire risk high,Infrastructure,2024-01-15 10:00:00,Active,10
+ISS006,School Building Collapse,Central,10,Partial building collapse at city school, children trapped,Emergency,2024-01-15 08:15:00,Active,15
+ISS007,Wildfire Threat,West Hills,9,Rapidly spreading wildfire approaching residential areas,Natural Disaster,2024-01-14 23:30:00,Active,20
+ISS008,Mass Power Outage,Industrial District,8,Widespread power outage affecting factories and businesses,Infrastructure,2024-01-15 06:45:00,Active,8
+ISS009,Chemical Spill,Harbor Area,10,Hazardous chemical spill at industrial plant,Environmental,2024-01-15 05:30:00,Active,16
+ISS010,Bridge Structural Failure,River District,9,Main bridge showing critical structural damage,Infrastructure,2024-01-14 18:20:00,In Progress,48
+ISS011,COVID-19 Outbreak,Eastside,8,Community outbreak at senior living facility,Medical,2024-01-15 11:00:00,Active,72
+ISS012,Terror Threat Alert,Downtown,10,Suspicious package reported at city hall, Security,2024-01-15 09:30:00,Active,4
+ISS013,Telecommunications Outage,Multiple Areas,7,Cell and internet services down across city,Infrastructure,2024-01-15 08:00:00,Active,10
+ISS014,Landslide,Riverside,8,Major landslide blocking main highway,Natural Disaster,2024-01-15 07:15:00,Active,14
+ISS015,Apartment Building Fire,Westside,9,5-alarm fire at 20-story apartment building,Emergency,2024-01-15 12:30:00,Active,8
+ISS016,Cyber Attack,City Center,9,City systems compromised, ransomware attack,Cyber Security,2024-01-15 03:00:00,Active,12
+ISS017,Mass Transit Strike,All Areas,7,Public transportation workers strike affecting 50,000 commuters,Transportation,2024-01-14 22:00:00,Active,24
+ISS018,Hospital Overflow,Medical District,9,All hospitals at 150% capacity due to flu outbreak,Medical,2024-01-15 10:45:00,Active,36
+ISS019,Subway Derailment,Underground,10,Subway train derailment with multiple injuries,Transportation,2024-01-15 08:50:00,Active,10
+ISS020,Toxic Air Quality,Industrial District,8,Air quality index reaches hazardous levels,Environmental,2024-01-15 09:15:00,Active,48
+ISS021,Food Supply Chain Disruption,Downtown,7,Supermarket supply chain breakdown affecting food availability,Logistics,2024-01-14 15:30:00,In Progress,36
+ISS022,Water Main Break,Northside,8,Major water main break flooding streets,Infrastructure,2024-01-15 06:20:00,Active,6
+ISS023,Mass Evacuation Required,Eastside,10,Mandatory evacuation ordered due to chemical plant fire,Emergency,2024-01-15 11:30:00,Active,12
+ISS024,Sewage System Failure,Southside,8,Complete sewage system failure, health hazard,Infrastructure,2024-01-15 07:00:00,Active,20
+ISS025,Airport Shutdown,Airport District,9,Airport closed due to security threat,Transportation,2024-01-15 05:45:00,Active,8

@@ -1,0 +1,9 @@
+TeamID,TeamName,Specialization,TeamLead,Location,Members,Availability
+T001,Alpha Response,Dispatch & Coordination,Marcus Thompson,Downtown,12,24/7
+T002,Bravo Medical,Trauma & Emergency,Dr. Sarah Chen,Medical District,15,24/7
+T003,Charlie Rescue,Fire & Structural,Captain James Rodriguez,Eastside,20,24/7
+T004,Delta Environmental,Hazmat & CBRNE,Thomas Anderson,Southside,10,24/7
+T005,Echo Engineering,Infrastructure & Utilities,David Kim,Northside,8,Day
+T006,Foxtrot Logistics,Supply Chain & Distribution,Robert Chen,Downtown,25,24/7
+T007,Golf Communications,IT & Communications,Jennifer Lee,City Center,12,24/7
+T008,Hotel Support,Shelter & Welfare,Patricia Garcia,Multiple,30,Day

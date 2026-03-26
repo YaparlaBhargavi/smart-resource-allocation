@@ -1,0 +1,21 @@
+Name,Location,Skills,Availability,Capacity,Contact,Experience,Specialization,Equipment,Shift
+Marcus Thompson,Downtown,Electrical Engineering,Yes,8,marcus.t@email.com,12,Power Systems,Generator Truck,24/7
+Dr. Sarah Chen,Medical District,Emergency Medicine,Yes,10,sarah.chen@email.com,15,Trauma Care,Mobile Clinic,24/7
+Captain James Rodriguez,Eastside,Fire Rescue,Yes,12,james.rod@email.com,20,Structural Fire,Fire Truck,24/7
+Emma Watson,Westside,Medical,Yes,6,emma.watson@email.com,8,First Aid,Medical Kit,Day
+David Kim,Northside,Structural Engineering,Yes,7,david.kim@email.com,10,Bridge Inspection,Survey Equipment,Day
+Lisa Patel,Southside,Environmental Science,Yes,5,lisa.patel@email.com,6,Hazmat,PPE Equipment,Day
+Robert Chen,Downtown,Logistics,Yes,9,robert.chen@email.com,14,Supply Chain,Cargo Truck,24/7
+Dr. Michael Brown,Medical District,Surgery,Yes,8,michael.brown@email.com,20,Trauma Surgery,Mobile OR,Night
+Sofia Rodriguez,Eastside,Translation,Yes,4,sofia.rod@email.com,5,Multilingual,Communication Device,Day
+William Taylor,Westside,Heavy Equipment,Yes,7,will.taylor@email.com,12,Excavation,Bulldozer,24/7
+Jennifer Lee,Northside,Communications,Yes,6,jennifer.lee@email.com,9,Radio Systems,Mobile Command,Night
+Thomas Anderson,Southside,CBRNE,Yes,8,thomas.and@email.com,11,Chemical Detection,Decontamination Unit,24/7
+Patricia Garcia,Downtown,Shelter Management,Yes,5,pat.garcia@email.com,7,Mass Care,Mobile Kitchen,Day
+Christopher White,Medical District,Psychiatry,Yes,6,chris.white@email.com,13,Crisis Counseling,Mobile Unit,Night
+Amanda Martinez,Eastside,Search and Rescue,Yes,10,amanda.mart@email.com,16,K9 Unit,Search Dogs,24/7
+Kevin Johnson,Westside,IT Security,Yes,7,kevin.john@email.com,9,Cyber Defense,Network Equipment,Night
+Rachel Adams,Northside,Water Treatment,Yes,5,rachel.adams@email.com,8,Purification,Water Truck,Day
+Steven Park,Southside,Structural Engineering,Yes,6,steven.park@email.com,10,Building Assessment,Drone Unit,Day
+Maria Santos,Downtown,Food Distribution,Yes,8,maria.santos@email.com,7,Logistics,Refrigerated Truck,24/7
+Daniel Murphy,Medical District,Respiratory Therapy,Yes,7,dan.murphy@email.com,9,Ventilators,Respiratory Unit,24/7

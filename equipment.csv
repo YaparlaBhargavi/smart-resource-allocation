@@ -1,0 +1,13 @@
+EquipmentID,Type,Location,Status,Quantity,Capacity
+EQ001,Generator Truck,Downtown,Available,5,100kW each
+EQ002,Mobile Clinic,Medical District,In Use,3,50 patients/day
+EQ003,Fire Truck,Eastside,Available,4,1000gal each
+EQ004,Water Purification Unit,Northside,Available,6,10000gal/day
+EQ005,Cargo Truck,Southside,Available,8,10 tons each
+EQ006,Mobile Command Center,Downtown,Available,2,Communication Hub
+EQ007,Bulldozer,Westside,Available,3,Heavy Equipment
+EQ008,Decontamination Unit,Harbor Area,Available,4,Hazmat
+EQ009,Search Dogs,Eastside,Available,5,K9 Units
+EQ010,Drone Unit,Northside,Available,12,Survey/Rescue
+EQ011,Ambulance,Medical District,Available,15,ALS Units
+EQ012,Helicopter,Airport District,Available,2,Air Rescue
